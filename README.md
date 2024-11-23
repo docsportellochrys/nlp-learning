@@ -1,1 +1,1 @@
-# NLP-courese-HSE
+# NLP-course-HSE
